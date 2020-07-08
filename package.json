@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dsound-zz/node.js-weather-app-#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "postman-request": "^2.88.1-postman.23",
     "request": "^2.88.2"
   }
